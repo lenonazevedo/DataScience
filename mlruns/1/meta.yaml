@@ -1,0 +1,4 @@
+artifact_location: file:///home/azevedo/github/prj_previsao_aluguel/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: exp-bootcamp

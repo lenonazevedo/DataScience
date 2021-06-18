@@ -1,0 +1,15 @@
+artifact_uri: file:///home/azevedo/github/prj_previsao_aluguel/mlruns/1/4570557255184a5db95ed9cc7308b0e5/artifacts
+end_time: 1624052286238
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 4570557255184a5db95ed9cc7308b0e5
+run_uuid: 4570557255184a5db95ed9cc7308b0e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624052286150
+status: 3
+tags: []
+user_id: azevedo
